@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://elendelg.github.io/sitemap.html.gz
+Sitemap: https://elendelg.github.io/app/sitemap.html.gz
+Sitemap: https://elendelg.github.io/assets/sitemap.html.gz
+Sitemap: https://elendelg.github.io/css/sitemap.html.gz
+Sitemap: https://elendelg.github.io/includes/sitemap.html.gz
+Sitemap: https://elendelg.github.io/item/sitemap.html.gz
+Sitemap: https://elendelg.github.io/src/sitemap.html.gz
